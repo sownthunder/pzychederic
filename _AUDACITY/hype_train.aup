@@ -1,0 +1,101 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="hype_train_data" version="1.3.0" audacityversion="2.3.0" sel0="0.0000000000" sel1="13.7142857143" vpos="0" h="0.0000000000" zoom="79.6979166667" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="AZxx ED 8Bars83" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="604800">
+				<waveblock start="0">
+					<simpleblockfile filename="e080866b.au" len="262144" min="-0.883585" max="0.851701" rms="0.208937"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0808485.au" len="262144" min="-0.868456" max="0.839915" rms="0.181637"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e08088fb.au" len="80512" min="-0.85243" max="0.834434" rms="0.180152"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="AZxx ED 8Bars83" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="604800">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808c85.au" len="262144" min="-0.891251" max="0.871608" rms="0.214392"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0808f6c.au" len="262144" min="-0.867642" max="0.871608" rms="0.18771"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0808558.au" len="80512" min="-0.848002" max="0.834319" rms="0.180773"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="AZxx ED 8Bars95" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="604800">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808a25.au" len="262144" min="-0.849505" max="0.842586" rms="0.256833"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e08088ae.au" len="262144" min="-0.835544" max="0.854985" rms="0.233604"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0808c69.au" len="80512" min="-0.764078" max="0.740331" rms="0.26025"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="AZxx ED 8Bars95" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="604800">
+				<waveblock start="0">
+					<simpleblockfile filename="e08088c0.au" len="262144" min="-0.864226" max="0.868254" rms="0.257455"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e080847e.au" len="262144" min="-0.840109" max="0.891251" rms="0.234573"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e08080f4.au" len="80512" min="-0.764107" max="0.740301" rms="0.260125"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="AZxx ED 8Bars105" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="604800">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808e88.au" len="262144" min="-0.869449" max="0.736896" rms="0.103731"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0808edf.au" len="262144" min="-0.836939" max="0.733936" rms="0.087727"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e08084d6.au" len="80512" min="-0.724935" max="0.710372" rms="0.081702"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="AZxx ED 8Bars105" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="604800">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808f57.au" len="262144" min="-0.891251" max="0.75921" rms="0.104124"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0808e83.au" len="262144" min="-0.836941" max="0.733934" rms="0.088214"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0808141.au" len="80512" min="-0.724937" max="0.71037" rms="0.081702"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
