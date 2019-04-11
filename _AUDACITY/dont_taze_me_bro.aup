@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="dont_taze_me_bro_data" version="1.3.0" audacityversion="2.3.0" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="35.7636242378" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="Software" value="Lavf57.71.100"/>
+	</tags>
+	<wavetrack name="University of Florida student Tasered at Kerry forum.1 (1)" channel="2" linked="0" mute="0" solo="0" height="97" minimized="0" isSelected="1" rate="44100" gain="0.630957" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="812610">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808bab.au" len="169538" min="-0.891251" max="0.86651" rms="0.24728"/>
+				</waveblock>
+				<waveblock start="169538">
+					<simpleblockfile filename="e0808c2a.au" len="262144" min="-0.891251" max="0.86651" rms="0.25984"/>
+				</waveblock>
+				<waveblock start="431682">
+					<simpleblockfile filename="e08087bc.au" len="262144" min="-0.891251" max="0.86651" rms="0.238735"/>
+				</waveblock>
+				<waveblock start="693826">
+					<simpleblockfile filename="e0808900.au" len="118784" min="-0.891251" max="0.86651" rms="0.260585"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
