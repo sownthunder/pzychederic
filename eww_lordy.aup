@@ -1,8 +1,11 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
-<project xmlns="http://audacity.sourceforge.net/xml/" projname="eww_lordy_data" version="1.3.0" audacityversion="2.3.2" sel0="19.0000000000" sel1="19.0000000000" vpos="0" h="0.0000000000" zoom="38.0789473684" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="eww_lordy_data" version="1.3.0" audacityversion="2.3.2" sel0="0.0000000000" sel1="0.0000000000" vpos="48" h="13.1430968027" zoom="47.7056518271" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
 	<tags>
+		<tag name="YEAR" value="2018"/>
 		<tag name="Software" value="Lavf57.71.100"/>
+		<tag name="TITLE" value="Trouble so Hard"/>
+		<tag name="ARTIST" value="Vera Hall"/>
 	</tags>
 	<wavetrack name="trouble_so_hard_set1" channel="0" linked="1" mute="0" solo="0" height="50" minimized="0" isSelected="0" rate="44100" gain="1.778279" pan="0.0" colorindex="3">
 		<waveclip offset="0.00000000" colorindex="3">
@@ -36,7 +39,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Audio Track" channel="0" linked="1" mute="0" solo="0" height="57" minimized="0" isSelected="0" rate="44100" gain="1.778279" pan="0.0" colorindex="0">
+	<wavetrack name="Audio Track" channel="0" linked="1" mute="0" solo="0" height="50" minimized="0" isSelected="0" rate="44100" gain="1.778279" pan="0.0" colorindex="0">
 		<waveclip offset="14.00000000" colorindex="3">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="220500">
 				<waveblock start="0">
@@ -49,7 +52,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Audio Track" channel="1" linked="0" mute="0" solo="0" height="57" minimized="0" isSelected="0" rate="44100" gain="1.778279" pan="0.0" colorindex="0">
+	<wavetrack name="Audio Track" channel="1" linked="0" mute="0" solo="0" height="50" minimized="0" isSelected="0" rate="44100" gain="1.778279" pan="0.0" colorindex="0">
 		<waveclip offset="14.00000000" colorindex="3">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="220500">
 				<waveblock start="0">
@@ -62,8 +65,8 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="CHORUS_2" channel="0" linked="1" mute="0" solo="0" height="50" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
-		<waveclip offset="26.00000000" colorindex="0">
+	<wavetrack name="CHORUS_2" channel="0" linked="1" mute="0" solo="0" height="50" minimized="0" isSelected="0" rate="44100" gain="1.778279" pan="0.0" colorindex="0">
+		<waveclip offset="19.00000000" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="215410">
 				<waveblock start="0">
 					<simpleblockfile filename="e000060f.au" len="215410" min="-0.595947" max="0.527313" rms="0.152227"/>
@@ -71,7 +74,7 @@
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
-		<waveclip offset="30.88458050" colorindex="0">
+		<waveclip offset="23.88458050" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="88210">
 				<waveblock start="0">
 					<simpleblockfile filename="e00000e2.au" len="88210" min="-0.490753" max="0.402924" rms="0.152135"/>
@@ -79,7 +82,7 @@
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
-		<waveclip offset="32.88480726" colorindex="0">
+		<waveclip offset="25.88480726" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="96124">
 				<waveblock start="0">
 					<simpleblockfile filename="e0000e2d.au" len="96124" min="-0.566162" max="0.495819" rms="0.124379"/>
@@ -88,8 +91,8 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="CHORUS_2" channel="1" linked="0" mute="0" solo="0" height="50" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
-		<waveclip offset="26.00000000" colorindex="0">
+	<wavetrack name="CHORUS_2" channel="1" linked="0" mute="0" solo="0" height="50" minimized="0" isSelected="0" rate="44100" gain="1.778279" pan="0.0" colorindex="0">
+		<waveclip offset="19.00000000" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="215410">
 				<waveblock start="0">
 					<simpleblockfile filename="e0000fd0.au" len="215410" min="-0.595947" max="0.527313" rms="0.152227"/>
@@ -97,7 +100,7 @@
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
-		<waveclip offset="30.88458050" colorindex="0">
+		<waveclip offset="23.88458050" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="88210">
 				<waveblock start="0">
 					<simpleblockfile filename="e0000098.au" len="88210" min="-0.490753" max="0.402924" rms="0.152135"/>
@@ -105,7 +108,7 @@
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
-		<waveclip offset="32.88480726" colorindex="0">
+		<waveclip offset="25.88480726" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="96124">
 				<waveblock start="0">
 					<simpleblockfile filename="e000052c.au" len="96124" min="-0.566162" max="0.49585" rms="0.124379"/>
@@ -114,8 +117,40 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Audio Track" channel="0" linked="1" mute="1" solo="0" height="45" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
-		<waveclip offset="0.00000000" colorindex="0">
+	<wavetrack name="sexy_stress" channel="0" linked="1" mute="0" solo="0" height="52" minimized="0" isSelected="0" rate="44100" gain="1.778279" pan="0.0" colorindex="0">
+		<waveclip offset="28.06448980" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="190583">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000303.au" len="190583" min="-0.495361" max="0.386932" rms="0.144606"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="sexy_stress" channel="1" linked="0" mute="0" solo="0" height="52" minimized="0" isSelected="0" rate="44100" gain="1.778279" pan="0.0" colorindex="0">
+		<waveclip offset="28.06448980" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="190583">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000f08.au" len="190583" min="-0.495361" max="0.386902" rms="0.144606"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="FAD_END" channel="2" linked="0" mute="0" solo="0" height="92" minimized="0" isSelected="0" rate="44100" gain="1.778279" pan="0.0" colorindex="0">
+		<waveclip offset="32.38609978" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="229809">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000fc4.au" len="229809" min="-0.891296" max="0.784729" rms="0.202498"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Audio Track" channel="0" linked="1" mute="0" solo="0" height="50" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0"/>
+	<wavetrack name="Audio Track" channel="1" linked="0" mute="0" solo="0" height="50" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0"/>
+	<wavetrack name="Audio Track" channel="0" linked="1" mute="1" solo="0" height="45" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="1">
+		<waveclip offset="0.00000000" colorindex="1">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="215410">
 				<waveblock start="0">
 					<simpleblockfile filename="e000060f.au" len="215410" min="-0.595947" max="0.527313" rms="0.152227"/>
@@ -124,31 +159,11 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Audio Track" channel="1" linked="0" mute="1" solo="0" height="45" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
-		<waveclip offset="0.00000000" colorindex="0">
+	<wavetrack name="Audio Track" channel="1" linked="0" mute="1" solo="0" height="45" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="1">
+		<waveclip offset="0.00000000" colorindex="1">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="215410">
 				<waveblock start="0">
 					<simpleblockfile filename="e0000fd0.au" len="215410" min="-0.595947" max="0.527313" rms="0.152227"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-	</wavetrack>
-	<wavetrack name="sexy_stress" channel="0" linked="1" mute="1" solo="0" height="52" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
-		<waveclip offset="0.00000000" colorindex="0">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="171006">
-				<waveblock start="0">
-					<simpleblockfile filename="e00002c8.au" len="171006" min="-0.595947" max="0.527313" rms="0.166256"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-	</wavetrack>
-	<wavetrack name="sexy_stress" channel="1" linked="0" mute="1" solo="0" height="52" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
-		<waveclip offset="0.00000000" colorindex="0">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="171006">
-				<waveblock start="0">
-					<simpleblockfile filename="e0000752.au" len="171006" min="-0.595947" max="0.527313" rms="0.166256"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="0"/>
