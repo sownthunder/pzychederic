@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///C:/Users/BabyPoopSoup/Desktop/zip/_staging/SOUNDS/Crate%20Digger%20Sound%20Pack/_IMNASTY.WAV</location>
+			<duration>644</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/BabyPoopSoup/Desktop/zip/_staging/SOUNDS/Crate%20Digger%20Sound%20Pack/2ILLSNR%28.WAV</location>
+			<duration>388</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/BabyPoopSoup/Desktop/zip/_staging/SOUNDS/Crate%20Digger%20Sound%20Pack/BACON%28LD.WAV</location>
+			<duration>1360</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/BabyPoopSoup/Desktop/zip/_staging/SOUNDS/Crate%20Digger%20Sound%20Pack/BABY-SNR.WAV</location>
+			<duration>165</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/BabyPoopSoup/Desktop/zip/_staging/SOUNDS/Crate%20Digger%20Sound%20Pack/ABCDKIK%28.WAV</location>
+			<duration>165</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/BabyPoopSoup/Desktop/zip/_staging/SOUNDS/Crate%20Digger%20Sound%20Pack/AIRYKIK%28.WAV</location>
+			<duration>717</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/BabyPoopSoup/Desktop/zip/_staging/SOUNDS/Crate%20Digger%20Sound%20Pack/AIR-SNR%28.WAV</location>
+			<duration>408</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/BabyPoopSoup/Desktop/zip/_staging/SOUNDS/Crate%20Digger%20Sound%20Pack/100_SNR%28.WAV</location>
+			<duration>314</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/BabyPoopSoup/Desktop/zip/_staging/SOUNDS/Crate%20Digger%20Sound%20Pack/2THINSNR.WAV</location>
+			<duration>634</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/BabyPoopSoup/Desktop/zip/_staging/SOUNDS/Crate%20Digger%20Sound%20Pack/2ILLSNR%28.WAV</location>
+			<duration>388</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/BabyPoopSoup/Desktop/zip/_staging/SOUNDS/Crate%20Digger%20Sound%20Pack/BIGNHAT%28.WAV</location>
+			<duration>330</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/BabyPoopSoup/Desktop/zip/_staging/SOUNDS/Crate%20Digger%20Sound%20Pack/CELLY%28LD.WAV</location>
+			<duration>636</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/BabyPoopSoup/Desktop/zip/_staging/SOUNDS/Crate%20Digger%20Sound%20Pack/DBL-SNR%28.WAV</location>
+			<duration>402</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/BabyPoopSoup/Desktop/zip/_staging/SOUNDS/Crate%20Digger%20Sound%20Pack/DXCLOSED.WAV</location>
+			<duration>300</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/BabyPoopSoup/Desktop/zip/_staging/SOUNDS/Crate%20Digger%20Sound%20Pack/FUQDKIK%28.WAV</location>
+			<duration>561</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/BabyPoopSoup/Desktop/zip/_staging/SOUNDS/Crate%20Digger%20Sound%20Pack/HIT%28LD00.WAV</location>
+			<duration>340</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/BabyPoopSoup/Desktop/zip/_staging/SOUNDS/Crate%20Digger%20Sound%20Pack/HATND.WAV</location>
+			<duration>87</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/BabyPoopSoup/Desktop/zip/_staging/SOUNDS/Crate%20Digger%20Sound%20Pack/JUL-SNR5.WAV</location>
+			<duration>319</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/BabyPoopSoup/Desktop/zip/_staging/SOUNDS/Crate%20Digger%20Sound%20Pack/KOP-SNR%28.WAV</location>
+			<duration>272</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/BabyPoopSoup/Desktop/zip/_staging/SOUNDS/Crate%20Digger%20Sound%20Pack/METALSNR.WAV</location>
+			<duration>294</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/BabyPoopSoup/Desktop/zip/_staging/SOUNDS/Crate%20Digger%20Sound%20Pack/OPEN1%28LD.WAV</location>
+			<duration>388</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/BabyPoopSoup/Desktop/zip/_staging/SOUNDS/Crate%20Digger%20Sound%20Pack/OOOMPHKI.WAV</location>
+			<duration>453</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/BabyPoopSoup/Desktop/zip/_staging/SOUNDS/Crate%20Digger%20Sound%20Pack/RIM%21%28LD0.WAV</location>
+			<duration>770</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/BabyPoopSoup/Desktop/zip/_staging/SOUNDS/Crate%20Digger%20Sound%20Pack/SNRSND.WAV</location>
+			<duration>142</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/BabyPoopSoup/Desktop/zip/_staging/SOUNDS/Crate%20Digger%20Sound%20Pack/SNR-TOM%28.WAV</location>
+			<duration>317</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/BabyPoopSoup/Desktop/zip/_staging/SOUNDS/Crate%20Digger%20Sound%20Pack/SO-WHATS.WAV</location>
+			<duration>360</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/BabyPoopSoup/Desktop/zip/_staging/SOUNDS/Crate%20Digger%20Sound%20Pack/SPARKLE%28.WAV</location>
+			<duration>448</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/BabyPoopSoup/Desktop/zip/_staging/SOUNDS/Crate%20Digger%20Sound%20Pack/SUPA-DOP.WAV</location>
+			<duration>333</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/BabyPoopSoup/Desktop/zip/_staging/SOUNDS/Crate%20Digger%20Sound%20Pack/UGLYSNR%28.WAV</location>
+			<duration>453</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/BabyPoopSoup/Desktop/zip/_staging/SOUNDS/Crate%20Digger%20Sound%20Pack/VIBEZ%28LD.WAV</location>
+			<duration>1484</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/BabyPoopSoup/Desktop/zip/_staging/SOUNDS/Crate%20Digger%20Sound%20Pack/TITE_LOK.WAV</location>
+			<duration>300</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/BabyPoopSoup/Desktop/zip/_staging/SOUNDS/Crate%20Digger%20Sound%20Pack/TITE1SNR.WAV</location>
+			<duration>305</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/BabyPoopSoup/Desktop/zip/_staging/SOUNDS/Crate%20Digger%20Sound%20Pack/SUPA-DOP.WAV</location>
+			<duration>333</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/BabyPoopSoup/Desktop/zip/_staging/SOUNDS/Crate%20Digger%20Sound%20Pack/STABKIK%28.WAV</location>
+			<duration>144</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/BabyPoopSoup/Desktop/zip/_staging/SOUNDS/Crate%20Digger%20Sound%20Pack/STABBKIC.WAV</location>
+			<duration>171</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/BabyPoopSoup/Desktop/zip/_staging/SOUNDS/Crate%20Digger%20Sound%20Pack/SNR2%28LD0.WAV</location>
+			<duration>363</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+		<vlc:item tid="33"/>
+		<vlc:item tid="34"/>
+		<vlc:item tid="35"/>
+	</extension>
+</playlist>

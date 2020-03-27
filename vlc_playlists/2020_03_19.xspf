@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///C:/Users/BabyPoopSoup/Desktop/zip/_staging/SOUNDS/Schoolhouse_Rock-3_ORIGINAL.wav</location>
+			<duration>179861</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/BabyPoopSoup/Desktop/zip/_staging/SOUNDS/145%20BPM%20Wubby%20Chords.wav</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/BabyPoopSoup/Desktop/zip/_staging/SOUNDS/Schoolhouse_Rock-3_ORIGINAL.wav</location>
+			<duration>179861</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/BabyPoopSoup/Desktop/zip/_staging/SOUNDS/looperman-l-2791900-0156429-trap-church-synth.wav</location>
+			<duration>7741</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/BabyPoopSoup/Desktop/zip/_staging/_GIT/pzychederic/_RECORDINGS/count_the_clock_2020_03_04.wav</location>
+			<duration>51525</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/BabyPoopSoup/Desktop/zip/_staging/_GIT/pzychederic/_RECORDINGS/klub_drugs_2_1.wav</location>
+			<duration>43615</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/BabyPoopSoup/Desktop/zip/_staging/_GIT/pzychederic/_RECORDINGS/hype_train_1.wav</location>
+			<title>HYPE-TRAIN</title>
+			<creator>pzychederic</creator>
+			<album>THR33</album>
+			<trackNum>2</trackNum>
+			<annotation>Voice changer with effects (http://thevoicechanger.com)</annotation>
+			<duration>32717</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/BabyPoopSoup/Desktop/zip/_staging/_GIT/pzychederic/_RECORDINGS/groovin_movin_6.wav</location>
+			<duration>29402</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/BabyPoopSoup/Desktop/zip/_staging/_GIT/pzychederic/_RECORDINGS/thumpalina_1.wav</location>
+			<duration>24572</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+	</extension>
+</playlist>
